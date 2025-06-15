@@ -62,7 +62,16 @@ const Profile = () => {
   };
 
   return (
-    <div className="container mx-auto p-4 mt-20">
+    <div
+      className="min-h-screen pt-10"
+      style={{
+        backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('/thumb.png')`,
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        backgroundRepeat: "no-repeat",
+        backgroundAttachment: "fixed",
+      }}
+    >
       <div className="max-w-md mx-auto bg-white p-8 rounded-lg shadow-md">
         <h2 className="text-2xl font-bold mb-6 text-center">User Profile</h2>
 

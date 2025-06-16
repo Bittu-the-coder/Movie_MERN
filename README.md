@@ -103,7 +103,9 @@ Movie_MERN/
 
 ## Demo Video
 
-https://youtu.be/EH4xf1SRCkQ?si=itNY0FPz0YgIiGuM
+[![Watch on YouTube](./uploads/Screenshot%202025-06-16%20114806.png)](https://youtu.be/EH4xf1SRCkQ?si=itNY0FPz0YgIiGuM)
+
+▶️ [Watch the tutorial video](https://youtu.be/EH4xf1SRCkQ?si=itNY0FPz0YgIiGuM)
 
 ## Contributing
 
